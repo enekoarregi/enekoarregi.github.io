@@ -1,3 +1,4 @@
-# Bienvenida a mi blog
+# Bienvenidos a mi vida
+#### de mierda
 
-Me alegro de que estés aquí. Pienso hablar sobre ...
+Me da igual la razón por la que estés aquí, si has entrado, es para quedarte
