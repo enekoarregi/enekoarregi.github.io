@@ -1,13 +1,12 @@
-title: Tu título genial
-author: Usuario GitHub
-email: tu-nombre@opendeusto.es
-description: > # this means to ignore newlines until "baseurl:"
-  Escribe una descripción estupenda para tu nuevo sitio aquí. Puedes editar esta línea
-  en _config.yml. Aparecerá en los metadatos de cabecera de tu documento (para los 
-  resultados de búsqueda de Google) y en la descripción del sitio de tu archivo feed.xml.
+theme: minima
+title: ¿Y amí qué?
+author: eneko arregi
+email: eneko.arregi@opendeusto.es
+description: > 
+  Soy Eneko pero puedes llamarme cuando quieras. Soy de Zarautz, y aunque suene a cliché me gusta el surf. También me gusta esquiar. Pero sobre todo lo que más me gusta es conocer a gente nueva constantemente.
 
 # social links
-twitter_username: tu-usuario-twitter # NO incluyas el carácter @ character, ¡o la compilación fallará!
-github_username:  tu-usuario-github # NO incluyas el carácter @ character, ¡o la compilación fallará!
+twitter_username: webmessages123
+github_username: enekoarregi
 
-show_excerpts: true # cámbialo a false para eliminar los extractos de la página principal
+show_excerpts: false
