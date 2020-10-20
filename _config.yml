@@ -1,12 +1,12 @@
-theme: minima
-title: ¿Y amí qué?
+title: Eneko Arregi
 author: eneko arregi
 email: eneko.arregi@opendeusto.es
 description: > 
   Soy Eneko pero puedes llamarme cuando quieras. Soy de Zarautz, y aunque suene a cliché me gusta el surf. También me gusta esquiar. Pero sobre todo lo que más me gusta es conocer a gente nueva constantemente.
 
 # social links
-twitter_username: webmessages123
+twitter_username: webmessages1
 github_username: enekoarregi
 
-show_excerpts: false
+show_excerpts: true
+theme: minima
