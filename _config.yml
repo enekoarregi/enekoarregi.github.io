@@ -8,5 +8,5 @@ description: >
 twitter_username: webmessages1
 github_username: enekoarregi
 
-show_excerpts: false
+show_excerpts: true
 theme: minima
