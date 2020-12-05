@@ -24,5 +24,13 @@ Pasos a seguir:
 + Utilizar estas herramientas para reclutar usuarios que prueben estos productos --> ethn.io y usertesting.com
 + Backlog es una herramienta que tiene como objetivo ordenar las aportaciones de los integrantes
 
-![Equipos agiles](/Imagen/LeanUX_canvas_v5.jpg)
-Format: ![Lean UX Canvas](https://github.com/enekoarregi/enekoarregi.github.io/blob/master/Imagen/LeanUX_canvas_v5.jpg)
+![Equipos ágiles](/Imagen/Equipos_agiles.jpg)
+Format: ![Equipos ágiles](https://github.com/enekoarregi/enekoarregi.github.io/blob/master/Imagen/Equipos_agiles.jpg)
+
+## Conclusiones
+Una práctica de investigación llevará tiempo hacerla, pero dará **resultados**
+Los resultados son:
+1. Los *product manager* ahorran dinero
+2. Los diseñadores estarán seguros sobre sus decisiones
+3. Los desarrolladores pueden ver su trabajo siendo utilizado en tiempo real
+Hay que tener en cuenta la **perspectiva del cliente** en cuanto al producto
