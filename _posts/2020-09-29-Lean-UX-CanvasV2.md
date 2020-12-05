@@ -15,3 +15,4 @@ Siguiendo los pasos indicados en el canvas, el proyecto se realizará con **éxi
 * Sirve de primer borrador
 
 ![Lean UX Canvas](/Imagen/LeanUX_canvas_v5.jpg)
+Format: ![Lean UX Canvas](https://github.com/enekoarregi/enekoarregi.github.io/blob/master/Imagen/LeanUX_canvas_v5.jpg)
