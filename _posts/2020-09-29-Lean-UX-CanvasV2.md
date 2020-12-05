@@ -14,5 +14,6 @@ Siguiendo los pasos indicados en el canvas, el proyecto se realizará con **éxi
 * Expone las diferentes maneras de entender que tiene cada uno del equipo en cuanto al problema a resolver, **para quién** lo resuelven y **porqué** creen que la solución funcionará
 * Sirve de primer borrador
 
+El esquema:
 ![Lean UX Canvas](/Imagen/LeanUX_canvas_v5.jpg)
 Format: ![Lean UX Canvas](https://github.com/enekoarregi/enekoarregi.github.io/blob/master/Imagen/LeanUX_canvas_v5.jpg)
